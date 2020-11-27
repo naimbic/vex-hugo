@@ -112,4 +112,4 @@ menu:
   main:
     URL: "/fr/"
     name: Home
-    weight: 1
+    weight: "1"
