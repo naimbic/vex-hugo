@@ -60,7 +60,7 @@ author = "Themefisher"
 contact_form_action = "https://formspree.io/f/xnqobvvy"
 currency = "MAD"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/trtdigital-logo-dark-fr.png"
 logo_width = "220px"
 snipcart_api = "M2ZiMmY2ODUtYjViZi00ZDFjLTk2YWEtZjQ1MDNmMDI0ZGE4NjM3NDIwODk5MTEzNDA3MzY3"
 [[params.plugins.css]]
