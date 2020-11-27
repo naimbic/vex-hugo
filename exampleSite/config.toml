@@ -6,13 +6,13 @@ theme = "vex-hugo"
 title = "TRT Shop | Minimal Shop Demo"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = ""
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = ""
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
