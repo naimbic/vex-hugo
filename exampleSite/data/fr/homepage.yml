@@ -110,6 +110,6 @@ testimonial:
       sense of mere tranquil existence, that I neglect my talents.
 menu:
   main:
-    URL: "/"
+    URL: "/fr/"
     name: Home
     weight: 1
